@@ -1,0 +1,16 @@
+C:\C#\Ркшения\OTUS\OtusHomework_8\bin\Debug\net5.0\OtusHomework_8.exe
+C:\C#\Ркшения\OTUS\OtusHomework_8\bin\Debug\net5.0\OtusHomework_8.deps.json
+C:\C#\Ркшения\OTUS\OtusHomework_8\bin\Debug\net5.0\OtusHomework_8.runtimeconfig.json
+C:\C#\Ркшения\OTUS\OtusHomework_8\bin\Debug\net5.0\OtusHomework_8.runtimeconfig.dev.json
+C:\C#\Ркшения\OTUS\OtusHomework_8\bin\Debug\net5.0\OtusHomework_8.dll
+C:\C#\Ркшения\OTUS\OtusHomework_8\bin\Debug\net5.0\OtusHomework_8.pdb
+C:\C#\Ркшения\OTUS\OtusHomework_8\obj\Debug\net5.0\OtusHomework_8.csproj.AssemblyReference.cache
+C:\C#\Ркшения\OTUS\OtusHomework_8\obj\Debug\net5.0\OtusHomework_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ркшения\OTUS\OtusHomework_8\obj\Debug\net5.0\OtusHomework_8.AssemblyInfoInputs.cache
+C:\C#\Ркшения\OTUS\OtusHomework_8\obj\Debug\net5.0\OtusHomework_8.AssemblyInfo.cs
+C:\C#\Ркшения\OTUS\OtusHomework_8\obj\Debug\net5.0\OtusHomework_8.csproj.CoreCompileInputs.cache
+C:\C#\Ркшения\OTUS\OtusHomework_8\obj\Debug\net5.0\OtusHomework_8.dll
+C:\C#\Ркшения\OTUS\OtusHomework_8\obj\Debug\net5.0\refint\OtusHomework_8.dll
+C:\C#\Ркшения\OTUS\OtusHomework_8\obj\Debug\net5.0\OtusHomework_8.pdb
+C:\C#\Ркшения\OTUS\OtusHomework_8\obj\Debug\net5.0\OtusHomework_8.genruntimeconfig.cache
+C:\C#\Ркшения\OTUS\OtusHomework_8\obj\Debug\net5.0\ref\OtusHomework_8.dll
